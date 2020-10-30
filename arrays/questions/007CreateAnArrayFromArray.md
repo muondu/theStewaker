@@ -1,3 +1,4 @@
+
 Given an array of elements, create a new array from the first,third and last element.
 i.e.
 If given an array:
